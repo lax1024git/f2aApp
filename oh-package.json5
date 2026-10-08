@@ -1,0 +1,6 @@
+{
+  "modelVersion": "6.0.1",
+  "description": "F2A — HarmonyOS native TOTP authenticator",
+  "dependencies": {},
+  "devDependencies": {}
+}

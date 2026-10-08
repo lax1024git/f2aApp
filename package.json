@@ -1,0 +1,9 @@
+{
+  "name": "f2a-app",
+  "version": "1.0.0",
+  "description": "HarmonyOS native 2FA authenticator",
+  "private": true,
+  "scripts": {
+    "pack": "powershell -ExecutionPolicy Bypass -File ./scripts/pack.ps1"
+  }
+}

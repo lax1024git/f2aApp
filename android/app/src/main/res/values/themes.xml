@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.F2A" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">#0A59F7</item>
+        <item name="android:statusBarColor">#F1F3F5</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:navigationBarColor">#F1F3F5</item>
+    </style>
+</resources>

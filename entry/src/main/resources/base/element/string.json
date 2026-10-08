@@ -1,0 +1,20 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "F2A 二次验证器"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "F2A 主入口"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "F2A"
+    },
+    {
+      "name": "camera_reason",
+      "value": "扫描 otpauth 二维码以添加验证令牌"
+    }
+  ]
+}
